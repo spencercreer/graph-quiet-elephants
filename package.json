@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spencercreer/graph-quiet-elephants.git"
+    "url": "git+https://github.com/spencercreer/spaceX-launches.git"
   },
   "keywords": [],
   "author": "Spencer Creer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/spencercreer/graph-quiet-elephants/issues"
+    "url": "https://github.com/spencercreer/spaceX-launches/issues"
   },
-  "homepage": "https://github.com/spencercreer/graph-quiet-elephants#readme",
+  "homepage": "https://github.com/spencercreer/spaceX-launches#readme",
   "dependencies": {
     "@apollo/client": "^3.4.15",
     "axios": "^0.21.4",
